@@ -55,15 +55,15 @@ Change  .ormconfig.json file in the project's directory. These variables connect
 
 # Project images 
 
-![HomePage](/image/gusto_home.png)
+![HomePage](/image/home.png)
 
-![LoginPage](/image/gusto_login.png)
+![LoginPage](/image/login.png)
 
-![SignupPage](/image/gusto_signup.png)
+![SignupPage](/image/signup.png)
 
 ![DashboardPage](/image/dashboard.png)
 
-![ProfilePage](/image/gusto_profile.png)
+![ProfilePage](/image/profile.png)
 
 ![UsersPosts](/image/mypost.png)
 
