@@ -4,7 +4,7 @@
 
 <p>This is a simple movie and actor sharing webproject built on nodejs</p>
 
-[HEROKU WEBAPP](https://gusto-finalproject.herokuapp.com)
+<p align="center"> [HEROKU WEBAPP](https://gusto-finalproject.herokuapp.com) </p>
 
 <h2 align="center">🔥 Project Details 🔥</h2>
 
