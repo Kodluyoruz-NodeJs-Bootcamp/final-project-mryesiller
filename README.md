@@ -4,6 +4,8 @@
 
 <p>This is a simple movie and actor sharing webproject built on nodejs</p>
 
+<p>GOKSEL YESILLER </p>
+
 <a align="center" href="https://gusto-finalproject.herokuapp.com">Visit HEROKU WEBAPP</a>
 
 <h2 align="center">🔥 Project Details 🔥</h2>
