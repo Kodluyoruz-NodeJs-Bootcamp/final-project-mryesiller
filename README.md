@@ -1,10 +1,11 @@
 <h1 align="center">⚡ Gusto&RemoteTeam Bootcamp Final Project ⚡</h1>
+<p>GOKSEL YESILLER </p>
 
 ![Gusto](/image/gusto.png)
 
 <p>This is a simple movie and actor sharing webproject built on nodejs</p>
 
-<p>GOKSEL YESILLER </p>
+
 
 <a align="center" href="https://gusto-finalproject.herokuapp.com">Visit HEROKU WEBAPP</a>
 
